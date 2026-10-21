@@ -1031,6 +1031,9 @@
         <mxCell id="vS2lnb7dZ9L2Parr_BQc-228" value="业务相关" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;" vertex="1" parent="1">
           <mxGeometry x="900" y="-430" width="600" height="260" as="geometry" />
         </mxCell>
+        <mxCell id="vS2lnb7dZ9L2Parr_BQc-247" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="-310" width="530" height="370" as="geometry" />
+        </mxCell>
         <mxCell id="vS2lnb7dZ9L2Parr_BQc-230" value="Menus" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="1570" y="-200" width="320" height="180" as="geometry" />
         </mxCell>
@@ -1098,9 +1101,6 @@
           <mxGeometry x="30" width="290" height="30" as="geometry">
             <mxRectangle width="290" height="30" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="vS2lnb7dZ9L2Parr_BQc-247" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1510" y="-310" width="530" height="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
