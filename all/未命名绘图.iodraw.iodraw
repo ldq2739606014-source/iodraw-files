@@ -1102,7 +1102,7 @@
             <mxRectangle width="290" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vS2lnb7dZ9L2Parr_BQc-249" value="业务相关" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;" vertex="1" parent="1">
+        <mxCell id="vS2lnb7dZ9L2Parr_BQc-249" value="数据驱动视图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;" vertex="1" parent="1">
           <mxGeometry x="1530" y="-430" width="600" height="260" as="geometry" />
         </mxCell>
       </root>
