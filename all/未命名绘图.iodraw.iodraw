@@ -1160,10 +1160,10 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vS2lnb7dZ9L2Parr_BQc-264" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;" edge="1" parent="1">
+        <mxCell id="vS2lnb7dZ9L2Parr_BQc-266" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="1600" y="60" as="sourcePoint" />
-            <mxPoint x="1700" y="-40" as="targetPoint" />
+            <mxPoint x="1810" y="-100" as="sourcePoint" />
+            <mxPoint x="1910" y="-200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
