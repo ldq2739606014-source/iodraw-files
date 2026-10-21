@@ -719,7 +719,7 @@
             <mxRectangle width="360" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vS2lnb7dZ9L2Parr_BQc-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERmandOne;startFill=0;endArrow=ERoneToMany;endFill=0;" edge="1" parent="1" source="vS2lnb7dZ9L2Parr_BQc-5" target="vS2lnb7dZ9L2Parr_BQc-50">
+        <mxCell id="vS2lnb7dZ9L2Parr_BQc-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERmandOne;startFill=0;endArrow=ERoneToMany;endFill=0;curved=1;" edge="1" parent="1" source="vS2lnb7dZ9L2Parr_BQc-5" target="vS2lnb7dZ9L2Parr_BQc-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vS2lnb7dZ9L2Parr_BQc-112" value="SKU" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
@@ -829,8 +829,13 @@
             <mxRectangle width="230" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vS2lnb7dZ9L2Parr_BQc-137" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="1" source="vS2lnb7dZ9L2Parr_BQc-5" target="vS2lnb7dZ9L2Parr_BQc-116">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="vS2lnb7dZ9L2Parr_BQc-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;elbow=vertical;curved=1;" edge="1" parent="1" source="vS2lnb7dZ9L2Parr_BQc-5" target="vS2lnb7dZ9L2Parr_BQc-116">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1110" y="381" />
+              <mxPoint x="1110" y="785" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
